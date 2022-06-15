@@ -3,7 +3,8 @@
 ## 成绩
 - 初赛 rank4
 - 复赛 rank8
-另外队友
+
+另外两名队友
 
 [ZhongYupei](https://github.com/ZhongYupei/GAIIC2022_track1_rank8)
 
