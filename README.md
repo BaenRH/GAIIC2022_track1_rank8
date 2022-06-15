@@ -1,8 +1,8 @@
 # GAIIC2022_track1_rank8
-[2022人工智能技术创新大赛-赛道1-电商关键属性匹配](https://www.heywhale.com/org/gaiic2022/competition/area/620b34c41f3cf500170bd6ca/content)  
-
-NEZHA-LSTM 方案
-
+[2022人工智能技术创新大赛-赛道1-电商关键属性匹配](https://www.heywhale.com/org/gaiic2022/competition/area/620b34c41f3cf500170bd6ca/content)  NEZHA-LSTM 方案
+## 成绩
+- 初赛 rank4
+- 复赛 rank8
 另外队友
 
 [ZhongYupei](https://github.com/ZhongYupei/GAIIC2022_track1_rank8)
